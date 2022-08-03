@@ -1,0 +1,14 @@
+{
+  "name": "socket-client",
+  "version": "1.0.0",
+  "description": "Socket client example ",
+  "main": "server.js",
+  "author": "Neimar ",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.5.1"
+  }
+}
